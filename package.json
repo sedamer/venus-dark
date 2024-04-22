@@ -1,0 +1,32 @@
+{
+  "name": "venus-dark",
+  "displayName": "venus-dark",
+  "description": "venus lavender dark mode theme made by moonchild",
+  "version": "0.0.1",
+  "publisher": "moonchild",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sedamer/venus-dark"
+  },
+  "keywords": [
+    "dark theme",
+    "lavender theme",
+    "venus",
+    "lavender and pinkish theme"
+  ],
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "venus-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/venus-dark-color-theme.json"
+      }
+    ]
+  }
+}
