@@ -1,6 +1,6 @@
 {
   "name": "venus-dark",
-  "displayName": "venus-dark",
+  "displayName": "venus",
   "description": "venus lavender dark mode theme made by moonchild",
   "version": "0.0.1",
   "publisher": "moonchild",
@@ -14,6 +14,7 @@
     "venus",
     "lavender and pinkish theme"
   ],
+  "icon": "./themes/images/venus.jpeg",
   "engines": {
     "vscode": "^1.88.0"
   },
