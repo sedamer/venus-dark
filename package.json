@@ -14,7 +14,6 @@
     "venus",
     "lavender and pinkish theme"
   ],
-  "icon": "./images/venus.jpeg",
   "engines": {
     "vscode": "^1.88.0"
   },
