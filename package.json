@@ -8,7 +8,7 @@
     "type": "git",
     "url": "https://github.com/sedamer/venus-dark"
   },
-  "icon": "./images/venus.jpeg",
+  "icon": "images/venus.jpeg",
   "keywords": [
     "dark theme",
     "lavender theme",
